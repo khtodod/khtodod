@@ -1,7 +1,5 @@
 # Hi there, I'm Tod-Od Khurelbaatar! 👋
 
-I'm a web developer with 6 years of experience.
-
 ## 🛠️ My Tech Stack
 
 ### Languages & Frameworks
