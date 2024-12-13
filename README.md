@@ -1,6 +1,6 @@
 # Hi there, I'm Tod-Od Khurelbaatar! 👋
 
-I'm a passionate web developer with 6 years of experience. I specialize in creating dynamic and beautiful web applications using a variety of modern technologies.
+I'm a web developer with 6 years of experience.
 
 ## 🛠️ My Tech Stack
 
